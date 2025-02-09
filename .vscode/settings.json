@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Assignment-1-Exception\\src",
+        "Assignment-7-JDBC&SQL\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\om\\Downloads\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0\\mysql-connector-j-9.2.0.jar"
+    ]
+}
